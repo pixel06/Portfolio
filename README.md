@@ -1,4 +1,3 @@
-# Portfolio
 # Overview
 This repository contains the source code for my personal portfolio website. The website is designed to showcase my projects, skills, and professional experience in a visually appealing and user-friendly manner.
 
