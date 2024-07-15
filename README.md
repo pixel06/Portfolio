@@ -1,4 +1,4 @@
-# Overview
+# Portfolio
 This repository contains the source code for my personal portfolio website. The website is designed to showcase my projects, skills, and professional experience in a visually appealing and user-friendly manner.
 
 # Features
@@ -6,11 +6,11 @@ Project Showcases: Dedicated sections for showcasing various projects with descr
 Skills Display: Highlights technical skills and competencies relevant to my field.
 Contact Information: Provides a means for visitors to contact me for professional opportunities.
 Responsive Design: Ensures the website is accessible and looks great across different devices and screen sizes.
-#Technologies Used
+# Technologies Used
 Frontend: HTML, CSS
 Version Control: Git (GitHub)
 
-How to Use
+# How to Use
 Clone the repository:
 bash
 Copy code
