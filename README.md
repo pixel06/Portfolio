@@ -22,7 +22,7 @@ Navigate to the project directory and open index.html in your web browser.
 You can view the live demo of the portfolio website here.
 https://pixel06.github.io/Portfolio/
 
-#Contributing
+# Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or fork the repository and submit a pull request.
 
 # Acknowledgments
